@@ -1,10 +1,13 @@
-# goblockchain-node
+# goblockchain-node : Tasrekat
+
 A proof of work  blockhain node built with Go from scratch (KootaChain)
 
 ## Building the source 
 
 For prerequisite and detailed build intstructions please refer to the [installation instructions](#installation) 
 
+
+## Architecture
 
 ## Running This Project 
 
