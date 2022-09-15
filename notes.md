@@ -344,3 +344,9 @@ A hash is a string representation of data
         
 
 
+# TODO 
+
+## Where am I? 
+
+    - In the core module implementing the types. 
+    - Before that we will implement all the adjacent modules to this one (i.e utils)
