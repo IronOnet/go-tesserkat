@@ -8,9 +8,9 @@ import (
 	"sync/atomic"
 	"time" 
 
-	"github.com/irononet/goblockchain-node/utils"
-	"github.com/irononet/goblockchain-node/utils/hexutil" 
-	"githbub.com/irononet/goblockchain-node/rlp"
+	"github.com/irononet/go-tesserkat/utils"
+	"github.com/irononet/go-tesserkat/utils/hexutil" 
+	"githbub.com/irononet/go-tesserkat/rlp"
 
 )
 

@@ -1,4 +1,4 @@
-module github.com/irononet/goblockchain-node
+module github.com/irononet/go-tesserkat
 
 go 1.18
 

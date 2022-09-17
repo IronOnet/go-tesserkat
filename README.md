@@ -1,4 +1,4 @@
-# goblockchain-node : Tasrekat
+# goblockchain-node : Go-Tesserkat (Derivded from Taserkat, Tesseract in Arabic)
 
 A proof of work  blockhain node built with Go from scratch (KootaChain)
 
