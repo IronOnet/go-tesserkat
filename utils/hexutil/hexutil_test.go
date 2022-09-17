@@ -1,9 +1,11 @@
 package hexutil
 
 import (
-	"bytes" 
-	"math/big" 
+	"bytes"
+	"math/big"
 	"testing"
+
+	
 )
 
 type marshalTest struct{
@@ -176,6 +178,8 @@ func TestEncodeUint64(t *testing.T){
 func TestDecodeUint64(t *testing.T){
 	for _, test := range decodeUint64Tests{
 		dec, err := DecodeUint64(test.input) 
+		//fmt.Println("TestDecodeUint64 Log") 
+		//fmt.Printf("Error variable %s, dec variable %q", err, dec)
 		if !checkError(t, test.input, err, test.wantErr){
 			continue 
 		}
